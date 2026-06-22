@@ -1,5 +1,6 @@
 {
-  "date": "22 June 2026",
+  "edition": "Edition 01 • 22 Jun 2026",
+  "subtitle": "Selected headlines across payments, AI and research.",
   "sections": [
     {
       "title": "Payments & AI",
@@ -7,24 +8,11 @@
         {
           "title": "Visa and Mastercard put tokens in charge of AI commerce",
           "source": "PYMNTS",
+          "tag": "Payments",
           "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-and-mastercard-put-tokens-in-charge-of-ai-commerce/",
-          "summary": "Visa and Mastercard are positioning tokenized credentials as the foundation for AI-driven commerce experiences."
-        },
-        {
-          "title": "Apple reportedly signals willingness to settle Pix NFC dispute in Brazil",
-          "source": "The Paypers",
-          "url": "https://thepaypers.com/payments/news/apple-reportedly-signals-willingness-to-settle-pix-nfc-dispute-in-brazil",
-          "summary": "Apple may be moving toward an agreement with Brazilian regulators regarding NFC access and Pix payments."
+          "summary": "Tokenized credentials are moving to the center of AI-driven checkout and agentic commerce."
         }
       ]
-    },
-    {
-      "title": "Research",
-      "items": []
-    },
-    {
-      "title": "In Spanish",
-      "items": []
     }
   ]
 }
