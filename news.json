@@ -1,0 +1,52 @@
+{
+  "edition": "Week of 23 June 2026",
+  "sections": [
+    {
+      "title": "Payments & AI",
+      "items": [
+        {
+          "title": "Visa and Mastercard put tokens in charge of AI commerce",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-and-mastercard-put-tokens-in-charge-of-ai-commerce/",
+          "summary": "Visa and Mastercard are positioning tokenized credentials as a core component of AI-driven commerce experiences."
+        },
+        {
+          "title": "Apple reportedly signals willingness to settle Pix NFC dispute in Brazil",
+          "source": "The Paypers",
+          "url": "https://thepaypers.com/payments/news/apple-reportedly-signals-willingness-to-settle-pix-nfc-dispute-in-brazil",
+          "summary": "Apple may be moving toward a resolution with Brazilian regulators over NFC access and Pix payments."
+        },
+        {
+          "title": "Alipay unveils AI agent upgrade",
+          "source": "Finextra",
+          "url": "https://www.finextra.com/pressarticle/110148/alipay-unveils-ai-agent-upgrade",
+          "summary": "Alipay introduces new AI agent capabilities to enhance digital commerce experiences."
+        },
+        {
+          "title": "European Payments Council grants SEPA Participant status to fintech Currenxie",
+          "source": "Finextra",
+          "url": "https://www.finextra.com/pressarticle/110140/european-payments-council-grants-sepa-participant-status-to-fintech-currenxie",
+          "summary": "Currenxie receives SEPA Participant status, expanding its access to European payment infrastructures."
+        },
+        {
+          "title": "Visa and Revolut roll out Click to Pay across Europe",
+          "source": "Finextra",
+          "url": "https://www.finextra.com/newsarticle/47925/visa-and-revolut-roll-out-click-to-pay-across-europe",
+          "summary": "The partnership expands Click to Pay availability to simplify online checkout experiences."
+        },
+        {
+          "title": "AI scam surge prompts Google to file lawsuit",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/cybersecurity/fraud-attack/2026/ai-scam-surge-prompts-google-to-file-lawsuit/",
+          "summary": "Google is taking legal action against operators allegedly using AI to scale fraud campaigns."
+        },
+        {
+          "title": "China takes on Swift with new cross-border payment system",
+          "source": "PYMNTS",
+          "url": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/china-takes-on-swift-with-new-cross-border-payment-system/",
+          "summary": "China continues developing alternative cross-border payment infrastructure to reduce dependence on Swift."
+        }
+      ]
+    }
+  ]
+}
